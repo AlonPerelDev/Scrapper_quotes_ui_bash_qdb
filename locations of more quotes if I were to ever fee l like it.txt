@@ -1,0 +1,2 @@
+https://gitlab.com/dwrodri/bash_irc_quotes/-/blob/master/compiled.tsv?ref_type=heads
+https://github.com/kristopolous/db.js
